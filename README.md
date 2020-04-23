@@ -1,11 +1,13 @@
 # Hi there!
 
-I am a highly driven analyst with strong skills in data analysis, identifying trends, coming up with solutions and presenting them to relevant stakeholders to make an impact! 
-I have a keen interest in business intelligence, data visualization, automation.
-My skills include SQL, BigQuery, Tableau, Python, Alteryx, DV360, Google Analytics. 
-Do head over to my [LinkedIn](https://www.linkedin.com/in/irfanah-ayub/) if you would love to connect with me!
+**I am a highly driven analyst with strong skills in data analysis, identifying trends, coming up with solutions and presenting them to relevant stakeholders to make an impact! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**I have a keen interest in business intelligence, data visualization, automation.
+
+**My skills include SQL, BigQuery, Tableau, Python, Alteryx, DV360, Google Analytics. 
+
+**Do head over to my [LinkedIn](https://www.linkedin.com/in/irfanah-ayub/) if you would love to connect with me!
+
 
 ### Markdown
 
