@@ -1,12 +1,12 @@
 # Hi there!
 
-**I am a highly driven analyst with strong skills in data analysis, identifying trends, coming up with solutions and presenting them to relevant stakeholders to make an impact! 
+**I am a highly driven analyst with strong skills in data analysis, identifying trends, coming up with solutions and presenting them to relevant stakeholders to make an impact!**
 
-**I have a keen interest in business intelligence, data visualization, automation.
+**I have a keen interest in business intelligence, data visualization, automation.**
 
-**My skills include SQL, BigQuery, Tableau, Python, Alteryx, DV360, Google Analytics. 
+**My skills include SQL, BigQuery, Tableau, Python, Alteryx, DV360, Google Analytics.** 
 
-**Do head over to my [LinkedIn](https://www.linkedin.com/in/irfanah-ayub/) if you would love to connect with me!
+**Do head over to my [LinkedIn](https://www.linkedin.com/in/irfanah-ayub/) if you would love to connect with me!**
 
 
 ### Markdown
